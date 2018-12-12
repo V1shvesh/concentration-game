@@ -47,7 +47,7 @@ const StyledTile = styled(posed.div({
     display: block;
     width: 6rem;
     height: 6rem;
-    background-color: #3337;
+    background-color: #333;
     transition-duration: 200ms;
     transition-timing-function: ease-out;
   }
