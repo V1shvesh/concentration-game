@@ -1,4 +1,5 @@
 {
     "css.validate": false,
-    "stylelint.enable": false
+    "stylelint.enable": false,
+    "git.ignoreLimitWarning": true
 }
